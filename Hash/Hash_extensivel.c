@@ -127,7 +127,7 @@ long buscar(Diretorio *dir, int chave) {
 }
 
 /**
- * DESTRUIR DIRETÓRIO (CORRIGIDO)
+ * DESTRUIR DIRETÓRIO
  */
 void destruir_diretorio(Diretorio *dir) {
     int tamanho = dir->tamanho;
